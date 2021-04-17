@@ -1,0 +1,574 @@
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 5: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=0000  in2=0000 rst=1
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 10: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=0000  in2=0000 rst=1  out=   00 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 10: uvm_test_top.env_h.scoreboard_h [PASS ] in1=0000  in2=0000 rst=1  out=   00 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 15: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=0110  in2=1000 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 20: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=0110  in2=1000 rst=0  out=   0e 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 20: uvm_test_top.env_h.scoreboard_h [PASS ] in1=0110  in2=1000 rst=0  out=   0e 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 25: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=0011  in2=0001 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 30: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=0011  in2=0001 rst=0  out=   04 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 30: uvm_test_top.env_h.scoreboard_h [PASS ] in1=0011  in2=0001 rst=0  out=   04 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 35: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=1101  in2=0011 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 40: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=1101  in2=0011 rst=0  out=   10 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 40: uvm_test_top.env_h.scoreboard_h [PASS ] in1=1101  in2=0011 rst=0  out=   10 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 45: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=0100  in2=1110 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 50: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=0100  in2=1110 rst=0  out=   12 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 50: uvm_test_top.env_h.scoreboard_h [PASS ] in1=0100  in2=1110 rst=0  out=   12 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 55: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=1000  in2=0010 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 60: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=1000  in2=0010 rst=0  out=   0a 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 60: uvm_test_top.env_h.scoreboard_h [PASS ] in1=1000  in2=0010 rst=0  out=   0a 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 65: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=1001  in2=1111 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 70: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=1001  in2=1111 rst=0  out=   18 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 70: uvm_test_top.env_h.scoreboard_h [PASS ] in1=1001  in2=1111 rst=0  out=   18 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 75: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=0111  in2=0101 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 80: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=0111  in2=0101 rst=0  out=   0c 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 80: uvm_test_top.env_h.scoreboard_h [PASS ] in1=0111  in2=0101 rst=0  out=   0c 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 85: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=0010  in2=0100 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 90: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=0010  in2=0100 rst=0  out=   06 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 90: uvm_test_top.env_h.scoreboard_h [PASS ] in1=0010  in2=0100 rst=0  out=   06 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 95: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=1010  in2=1100 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 100: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=1010  in2=1100 rst=0  out=   16 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 100: uvm_test_top.env_h.scoreboard_h [PASS ] in1=1010  in2=1100 rst=0  out=   16 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 105: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=1111  in2=1101 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 110: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=1111  in2=1101 rst=0  out=   1c 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 110: uvm_test_top.env_h.scoreboard_h [PASS ] in1=1111  in2=1101 rst=0  out=   1c 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 115: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=0001  in2=0111 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 120: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=0001  in2=0111 rst=0  out=   08 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 120: uvm_test_top.env_h.scoreboard_h [PASS ] in1=0001  in2=0111 rst=0  out=   08 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 125: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=0000  in2=1010 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 130: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=0000  in2=1010 rst=0  out=   0a 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 130: uvm_test_top.env_h.scoreboard_h [PASS ] in1=0000  in2=1010 rst=0  out=   0a 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 135: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=1100  in2=0110 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 140: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=1100  in2=0110 rst=0  out=   12 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 140: uvm_test_top.env_h.scoreboard_h [PASS ] in1=1100  in2=0110 rst=0  out=   12 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 145: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=0101  in2=1011 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 150: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=0101  in2=1011 rst=0  out=   10 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 150: uvm_test_top.env_h.scoreboard_h [PASS ] in1=0101  in2=1011 rst=0  out=   10 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 155: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=1011  in2=1001 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 160: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=1011  in2=1001 rst=0  out=   14 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 160: uvm_test_top.env_h.scoreboard_h [PASS ] in1=1011  in2=1001 rst=0  out=   14 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 165: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=1110  in2=0000 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 170: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=1110  in2=0000 rst=0  out=   0e 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 170: uvm_test_top.env_h.scoreboard_h [PASS ] in1=1110  in2=0000 rst=0  out=   0e 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 175: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=1110  in2=0000 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 180: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=1110  in2=0000 rst=0  out=   0e 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 180: uvm_test_top.env_h.scoreboard_h [PASS ] in1=1110  in2=0000 rst=0  out=   0e 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 185: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=1011  in2=1001 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 190: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=1011  in2=1001 rst=0  out=   14 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 190: uvm_test_top.env_h.scoreboard_h [PASS ] in1=1011  in2=1001 rst=0  out=   14 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 195: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=0101  in2=1011 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 200: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=0101  in2=1011 rst=0  out=   10 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 200: uvm_test_top.env_h.scoreboard_h [PASS ] in1=0101  in2=1011 rst=0  out=   10 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 205: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=1100  in2=0110 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 210: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=1100  in2=0110 rst=0  out=   12 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 210: uvm_test_top.env_h.scoreboard_h [PASS ] in1=1100  in2=0110 rst=0  out=   12 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 215: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=0000  in2=1010 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 220: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=0000  in2=1010 rst=0  out=   0a 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 220: uvm_test_top.env_h.scoreboard_h [PASS ] in1=0000  in2=1010 rst=0  out=   0a 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 225: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=0001  in2=0111 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 230: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=0001  in2=0111 rst=0  out=   08 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 230: uvm_test_top.env_h.scoreboard_h [PASS ] in1=0001  in2=0111 rst=0  out=   08 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 235: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=1111  in2=1101 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 240: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=1111  in2=1101 rst=0  out=   1c 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 240: uvm_test_top.env_h.scoreboard_h [PASS ] in1=1111  in2=1101 rst=0  out=   1c 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 245: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=1010  in2=1100 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 250: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=1010  in2=1100 rst=0  out=   16 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 250: uvm_test_top.env_h.scoreboard_h [PASS ] in1=1010  in2=1100 rst=0  out=   16 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 255: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=0010  in2=0100 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 260: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=0010  in2=0100 rst=0  out=   06 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 260: uvm_test_top.env_h.scoreboard_h [PASS ] in1=0010  in2=0100 rst=0  out=   06 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 265: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=0111  in2=0101 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 270: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=0111  in2=0101 rst=0  out=   0c 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 270: uvm_test_top.env_h.scoreboard_h [PASS ] in1=0111  in2=0101 rst=0  out=   0c 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 275: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=1001  in2=1111 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 280: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=1001  in2=1111 rst=0  out=   18 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 280: uvm_test_top.env_h.scoreboard_h [PASS ] in1=1001  in2=1111 rst=0  out=   18 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 285: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=1000  in2=0010 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 290: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=1000  in2=0010 rst=0  out=   0a 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 290: uvm_test_top.env_h.scoreboard_h [PASS ] in1=1000  in2=0010 rst=0  out=   0a 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 295: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=0100  in2=1110 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 300: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=0100  in2=1110 rst=0  out=   12 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 300: uvm_test_top.env_h.scoreboard_h [PASS ] in1=0100  in2=1110 rst=0  out=   12 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 305: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=1101  in2=0011 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 310: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=1101  in2=0011 rst=0  out=   10 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 310: uvm_test_top.env_h.scoreboard_h [PASS ] in1=1101  in2=0011 rst=0  out=   10 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 315: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=0011  in2=0001 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 320: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=0011  in2=0001 rst=0  out=   04 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 320: uvm_test_top.env_h.scoreboard_h [PASS ] in1=0011  in2=0001 rst=0  out=   04 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 325: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=0110  in2=1000 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 330: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=0110  in2=1000 rst=0  out=   0e 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 330: uvm_test_top.env_h.scoreboard_h [PASS ] in1=0110  in2=1000 rst=0  out=   0e 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 335: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=0110  in2=1000 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 340: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=0110  in2=1000 rst=0  out=   0e 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 340: uvm_test_top.env_h.scoreboard_h [PASS ] in1=0110  in2=1000 rst=0  out=   0e 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 345: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=0011  in2=0001 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 350: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=0011  in2=0001 rst=0  out=   04 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 350: uvm_test_top.env_h.scoreboard_h [PASS ] in1=0011  in2=0001 rst=0  out=   04 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 355: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=1101  in2=0011 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 360: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=1101  in2=0011 rst=0  out=   10 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 360: uvm_test_top.env_h.scoreboard_h [PASS ] in1=1101  in2=0011 rst=0  out=   10 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 365: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=0100  in2=1110 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 370: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=0100  in2=1110 rst=0  out=   12 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 370: uvm_test_top.env_h.scoreboard_h [PASS ] in1=0100  in2=1110 rst=0  out=   12 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 375: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=1000  in2=0010 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 380: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=1000  in2=0010 rst=0  out=   0a 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 380: uvm_test_top.env_h.scoreboard_h [PASS ] in1=1000  in2=0010 rst=0  out=   0a 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 385: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=1001  in2=1111 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 390: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=1001  in2=1111 rst=0  out=   18 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 390: uvm_test_top.env_h.scoreboard_h [PASS ] in1=1001  in2=1111 rst=0  out=   18 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 395: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=0111  in2=0101 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 400: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=0111  in2=0101 rst=0  out=   0c 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 400: uvm_test_top.env_h.scoreboard_h [PASS ] in1=0111  in2=0101 rst=0  out=   0c 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 405: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=0010  in2=0100 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 410: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=0010  in2=0100 rst=0  out=   06 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 410: uvm_test_top.env_h.scoreboard_h [PASS ] in1=0010  in2=0100 rst=0  out=   06 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 415: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=1010  in2=1100 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 420: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=1010  in2=1100 rst=0  out=   16 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 420: uvm_test_top.env_h.scoreboard_h [PASS ] in1=1010  in2=1100 rst=0  out=   16 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 425: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=1111  in2=1101 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 430: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=1111  in2=1101 rst=0  out=   1c 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 430: uvm_test_top.env_h.scoreboard_h [PASS ] in1=1111  in2=1101 rst=0  out=   1c 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 435: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=0001  in2=0111 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 440: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=0001  in2=0111 rst=0  out=   08 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 440: uvm_test_top.env_h.scoreboard_h [PASS ] in1=0001  in2=0111 rst=0  out=   08 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 445: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=0000  in2=1010 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 450: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=0000  in2=1010 rst=0  out=   0a 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 450: uvm_test_top.env_h.scoreboard_h [PASS ] in1=0000  in2=1010 rst=0  out=   0a 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 455: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=1100  in2=0110 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 460: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=1100  in2=0110 rst=0  out=   12 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 460: uvm_test_top.env_h.scoreboard_h [PASS ] in1=1100  in2=0110 rst=0  out=   12 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 465: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=0101  in2=1011 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 470: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=0101  in2=1011 rst=0  out=   10 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 470: uvm_test_top.env_h.scoreboard_h [PASS ] in1=0101  in2=1011 rst=0  out=   10 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 475: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=1011  in2=1001 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 480: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=1011  in2=1001 rst=0  out=   14 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 480: uvm_test_top.env_h.scoreboard_h [PASS ] in1=1011  in2=1001 rst=0  out=   14 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 485: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=1110  in2=0000 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 490: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=1110  in2=0000 rst=0  out=   0e 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 490: uvm_test_top.env_h.scoreboard_h [PASS ] in1=1110  in2=0000 rst=0  out=   0e 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 495: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=1110  in2=0000 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 500: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=1110  in2=0000 rst=0  out=   0e 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 500: uvm_test_top.env_h.scoreboard_h [PASS ] in1=1110  in2=0000 rst=0  out=   0e 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 505: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=1011  in2=1001 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 510: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=1011  in2=1001 rst=0  out=   14 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 510: uvm_test_top.env_h.scoreboard_h [PASS ] in1=1011  in2=1001 rst=0  out=   14 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 515: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=0101  in2=1011 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 520: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=0101  in2=1011 rst=0  out=   10 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 520: uvm_test_top.env_h.scoreboard_h [PASS ] in1=0101  in2=1011 rst=0  out=   10 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 525: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=1100  in2=0110 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 530: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=1100  in2=0110 rst=0  out=   12 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 530: uvm_test_top.env_h.scoreboard_h [PASS ] in1=1100  in2=0110 rst=0  out=   12 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 535: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=0000  in2=1010 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 540: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=0000  in2=1010 rst=0  out=   0a 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 540: uvm_test_top.env_h.scoreboard_h [PASS ] in1=0000  in2=1010 rst=0  out=   0a 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 545: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=0001  in2=0111 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 550: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=0001  in2=0111 rst=0  out=   08 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 550: uvm_test_top.env_h.scoreboard_h [PASS ] in1=0001  in2=0111 rst=0  out=   08 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 555: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=1111  in2=1101 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 560: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=1111  in2=1101 rst=0  out=   1c 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 560: uvm_test_top.env_h.scoreboard_h [PASS ] in1=1111  in2=1101 rst=0  out=   1c 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 565: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=1010  in2=1100 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 570: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=1010  in2=1100 rst=0  out=   16 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 570: uvm_test_top.env_h.scoreboard_h [PASS ] in1=1010  in2=1100 rst=0  out=   16 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 575: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=0010  in2=0100 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 580: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=0010  in2=0100 rst=0  out=   06 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 580: uvm_test_top.env_h.scoreboard_h [PASS ] in1=0010  in2=0100 rst=0  out=   06 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 585: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=0111  in2=0101 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 590: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=0111  in2=0101 rst=0  out=   0c 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 590: uvm_test_top.env_h.scoreboard_h [PASS ] in1=0111  in2=0101 rst=0  out=   0c 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 595: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=1001  in2=1111 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 600: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=1001  in2=1111 rst=0  out=   18 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 600: uvm_test_top.env_h.scoreboard_h [PASS ] in1=1001  in2=1111 rst=0  out=   18 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 605: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=1000  in2=0010 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 610: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=1000  in2=0010 rst=0  out=   0a 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 610: uvm_test_top.env_h.scoreboard_h [PASS ] in1=1000  in2=0010 rst=0  out=   0a 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 615: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=0100  in2=1110 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 620: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=0100  in2=1110 rst=0  out=   12 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 620: uvm_test_top.env_h.scoreboard_h [PASS ] in1=0100  in2=1110 rst=0  out=   12 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 625: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=1101  in2=0011 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 630: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=1101  in2=0011 rst=0  out=   10 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 630: uvm_test_top.env_h.scoreboard_h [PASS ] in1=1101  in2=0011 rst=0  out=   10 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 635: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=0011  in2=0001 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 640: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=0011  in2=0001 rst=0  out=   04 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 640: uvm_test_top.env_h.scoreboard_h [PASS ] in1=0011  in2=0001 rst=0  out=   04 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 645: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=0110  in2=1000 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 650: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=0110  in2=1000 rst=0  out=   0e 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 650: uvm_test_top.env_h.scoreboard_h [PASS ] in1=0110  in2=1000 rst=0  out=   0e 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 655: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=0110  in2=1000 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 660: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=0110  in2=1000 rst=0  out=   0e 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 660: uvm_test_top.env_h.scoreboard_h [PASS ] in1=0110  in2=1000 rst=0  out=   0e 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 665: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=0011  in2=0001 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 670: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=0011  in2=0001 rst=0  out=   04 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 670: uvm_test_top.env_h.scoreboard_h [PASS ] in1=0011  in2=0001 rst=0  out=   04 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 675: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=1101  in2=0011 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 680: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=1101  in2=0011 rst=0  out=   10 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 680: uvm_test_top.env_h.scoreboard_h [PASS ] in1=1101  in2=0011 rst=0  out=   10 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 685: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=0100  in2=1110 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 690: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=0100  in2=1110 rst=0  out=   12 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 690: uvm_test_top.env_h.scoreboard_h [PASS ] in1=0100  in2=1110 rst=0  out=   12 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 695: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=1000  in2=0010 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 700: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=1000  in2=0010 rst=0  out=   0a 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 700: uvm_test_top.env_h.scoreboard_h [PASS ] in1=1000  in2=0010 rst=0  out=   0a 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 705: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=1001  in2=1111 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 710: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=1001  in2=1111 rst=0  out=   18 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 710: uvm_test_top.env_h.scoreboard_h [PASS ] in1=1001  in2=1111 rst=0  out=   18 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 715: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=0111  in2=0101 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 720: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=0111  in2=0101 rst=0  out=   0c 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 720: uvm_test_top.env_h.scoreboard_h [PASS ] in1=0111  in2=0101 rst=0  out=   0c 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 725: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=0010  in2=0100 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 730: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=0010  in2=0100 rst=0  out=   06 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 730: uvm_test_top.env_h.scoreboard_h [PASS ] in1=0010  in2=0100 rst=0  out=   06 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 735: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=1010  in2=1100 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 740: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=1010  in2=1100 rst=0  out=   16 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 740: uvm_test_top.env_h.scoreboard_h [PASS ] in1=1010  in2=1100 rst=0  out=   16 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 745: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=1111  in2=1101 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 750: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=1111  in2=1101 rst=0  out=   1c 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 750: uvm_test_top.env_h.scoreboard_h [PASS ] in1=1111  in2=1101 rst=0  out=   1c 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 755: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=0001  in2=0111 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 760: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=0001  in2=0111 rst=0  out=   08 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 760: uvm_test_top.env_h.scoreboard_h [PASS ] in1=0001  in2=0111 rst=0  out=   08 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 765: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=0000  in2=1010 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 770: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=0000  in2=1010 rst=0  out=   0a 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 770: uvm_test_top.env_h.scoreboard_h [PASS ] in1=0000  in2=1010 rst=0  out=   0a 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 775: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=1100  in2=0110 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 780: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=1100  in2=0110 rst=0  out=   12 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 780: uvm_test_top.env_h.scoreboard_h [PASS ] in1=1100  in2=0110 rst=0  out=   12 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 785: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=0101  in2=1011 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 790: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=0101  in2=1011 rst=0  out=   10 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 790: uvm_test_top.env_h.scoreboard_h [PASS ] in1=0101  in2=1011 rst=0  out=   10 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 795: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=1011  in2=1001 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 800: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=1011  in2=1001 rst=0  out=   14 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 800: uvm_test_top.env_h.scoreboard_h [PASS ] in1=1011  in2=1001 rst=0  out=   14 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 805: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=1110  in2=0000 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 810: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=1110  in2=0000 rst=0  out=   0e 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 810: uvm_test_top.env_h.scoreboard_h [PASS ] in1=1110  in2=0000 rst=0  out=   0e 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 815: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=1110  in2=0000 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 820: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=1110  in2=0000 rst=0  out=   0e 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 820: uvm_test_top.env_h.scoreboard_h [PASS ] in1=1110  in2=0000 rst=0  out=   0e 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 825: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=1011  in2=1001 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 830: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=1011  in2=1001 rst=0  out=   14 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 830: uvm_test_top.env_h.scoreboard_h [PASS ] in1=1011  in2=1001 rst=0  out=   14 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 835: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=0101  in2=1011 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 840: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=0101  in2=1011 rst=0  out=   10 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 840: uvm_test_top.env_h.scoreboard_h [PASS ] in1=0101  in2=1011 rst=0  out=   10 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 845: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=1100  in2=0110 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 850: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=1100  in2=0110 rst=0  out=   12 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 850: uvm_test_top.env_h.scoreboard_h [PASS ] in1=1100  in2=0110 rst=0  out=   12 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 855: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=0000  in2=1010 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 860: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=0000  in2=1010 rst=0  out=   0a 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 860: uvm_test_top.env_h.scoreboard_h [PASS ] in1=0000  in2=1010 rst=0  out=   0a 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 865: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=0001  in2=0111 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 870: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=0001  in2=0111 rst=0  out=   08 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 870: uvm_test_top.env_h.scoreboard_h [PASS ] in1=0001  in2=0111 rst=0  out=   08 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 875: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=1111  in2=1101 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 880: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=1111  in2=1101 rst=0  out=   1c 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 880: uvm_test_top.env_h.scoreboard_h [PASS ] in1=1111  in2=1101 rst=0  out=   1c 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 885: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=1010  in2=1100 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 890: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=1010  in2=1100 rst=0  out=   16 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 890: uvm_test_top.env_h.scoreboard_h [PASS ] in1=1010  in2=1100 rst=0  out=   16 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 895: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=0010  in2=0100 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 900: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=0010  in2=0100 rst=0  out=   06 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 900: uvm_test_top.env_h.scoreboard_h [PASS ] in1=0010  in2=0100 rst=0  out=   06 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 905: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=0111  in2=0101 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 910: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=0111  in2=0101 rst=0  out=   0c 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 910: uvm_test_top.env_h.scoreboard_h [PASS ] in1=0111  in2=0101 rst=0  out=   0c 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 915: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=1001  in2=1111 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 920: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=1001  in2=1111 rst=0  out=   18 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 920: uvm_test_top.env_h.scoreboard_h [PASS ] in1=1001  in2=1111 rst=0  out=   18 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 925: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=1000  in2=0010 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 930: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=1000  in2=0010 rst=0  out=   0a 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 930: uvm_test_top.env_h.scoreboard_h [PASS ] in1=1000  in2=0010 rst=0  out=   0a 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 935: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=0100  in2=1110 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 940: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=0100  in2=1110 rst=0  out=   12 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 940: uvm_test_top.env_h.scoreboard_h [PASS ] in1=0100  in2=1110 rst=0  out=   12 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 945: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=1101  in2=0011 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 950: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=1101  in2=0011 rst=0  out=   10 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 950: uvm_test_top.env_h.scoreboard_h [PASS ] in1=1101  in2=0011 rst=0  out=   10 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 955: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=0011  in2=0001 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 960: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=0011  in2=0001 rst=0  out=   04 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 960: uvm_test_top.env_h.scoreboard_h [PASS ] in1=0011  in2=0001 rst=0  out=   04 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 965: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=0110  in2=1000 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 970: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=0110  in2=1000 rst=0  out=   0e 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 970: uvm_test_top.env_h.scoreboard_h [PASS ] in1=0110  in2=1000 rst=0  out=   0e 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 975: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=0110  in2=1000 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 980: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=0110  in2=1000 rst=0  out=   0e 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 980: uvm_test_top.env_h.scoreboard_h [PASS ] in1=0110  in2=1000 rst=0  out=   0e 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 985: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=0011  in2=0001 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 990: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=0011  in2=0001 rst=0  out=   04 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 990: uvm_test_top.env_h.scoreboard_h [PASS ] in1=0011  in2=0001 rst=0  out=   04 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 995: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=1101  in2=0011 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 1000: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=1101  in2=0011 rst=0  out=   10 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 1000: uvm_test_top.env_h.scoreboard_h [PASS ] in1=1101  in2=0011 rst=0  out=   10 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 1005: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=0100  in2=1110 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 1010: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=0100  in2=1110 rst=0  out=   12 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 1010: uvm_test_top.env_h.scoreboard_h [PASS ] in1=0100  in2=1110 rst=0  out=   12 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 1015: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=1111  in2=1111 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 1020: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=1111  in2=1111 rst=0  out=   1e 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 1020: uvm_test_top.env_h.scoreboard_h [PASS ] in1=1111  in2=1111 rst=0  out=   1e 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 1025: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=1111  in2=1111 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 1030: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=1111  in2=1111 rst=0  out=   1e 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 1030: uvm_test_top.env_h.scoreboard_h [PASS ] in1=1111  in2=1111 rst=0  out=   1e 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 1035: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=1111  in2=1111 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 1040: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=1111  in2=1111 rst=0  out=   1e 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 1040: uvm_test_top.env_h.scoreboard_h [PASS ] in1=1111  in2=1111 rst=0  out=   1e 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 1045: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=1111  in2=1111 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 1050: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=1111  in2=1111 rst=0  out=   1e 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 1050: uvm_test_top.env_h.scoreboard_h [PASS ] in1=1111  in2=1111 rst=0  out=   1e 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 1055: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=1111  in2=1111 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 1060: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=1111  in2=1111 rst=0  out=   1e 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 1060: uvm_test_top.env_h.scoreboard_h [PASS ] in1=1111  in2=1111 rst=0  out=   1e 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 1065: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=1111  in2=1111 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 1070: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=1111  in2=1111 rst=0  out=   1e 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 1070: uvm_test_top.env_h.scoreboard_h [PASS ] in1=1111  in2=1111 rst=0  out=   1e 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 1075: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=1111  in2=1111 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 1080: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=1111  in2=1111 rst=0  out=   1e 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 1080: uvm_test_top.env_h.scoreboard_h [PASS ] in1=1111  in2=1111 rst=0  out=   1e 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 1085: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=1111  in2=1111 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 1090: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=1111  in2=1111 rst=0  out=   1e 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 1090: uvm_test_top.env_h.scoreboard_h [PASS ] in1=1111  in2=1111 rst=0  out=   1e 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 1095: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=1111  in2=1111 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 1100: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=1111  in2=1111 rst=0  out=   1e 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 1100: uvm_test_top.env_h.scoreboard_h [PASS ] in1=1111  in2=1111 rst=0  out=   1e 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 1105: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=1111  in2=1111 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 1110: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=1111  in2=1111 rst=0  out=   1e 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 1110: uvm_test_top.env_h.scoreboard_h [PASS ] in1=1111  in2=1111 rst=0  out=   1e 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 1115: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=1111  in2=1111 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 1120: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=1111  in2=1111 rst=0  out=   1e 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 1120: uvm_test_top.env_h.scoreboard_h [PASS ] in1=1111  in2=1111 rst=0  out=   1e 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 1125: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=1111  in2=1111 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 1130: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=1111  in2=1111 rst=0  out=   1e 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 1130: uvm_test_top.env_h.scoreboard_h [PASS ] in1=1111  in2=1111 rst=0  out=   1e 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 1135: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=1111  in2=1111 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 1140: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=1111  in2=1111 rst=0  out=   1e 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 1140: uvm_test_top.env_h.scoreboard_h [PASS ] in1=1111  in2=1111 rst=0  out=   1e 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 1145: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=1111  in2=1111 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 1150: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=1111  in2=1111 rst=0  out=   1e 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 1150: uvm_test_top.env_h.scoreboard_h [PASS ] in1=1111  in2=1111 rst=0  out=   1e 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 1155: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=1111  in2=1111 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 1160: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=1111  in2=1111 rst=0  out=   1e 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 1160: uvm_test_top.env_h.scoreboard_h [PASS ] in1=1111  in2=1111 rst=0  out=   1e 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 1165: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=1111  in2=1111 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 1170: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=1111  in2=1111 rst=0  out=   1e 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 1170: uvm_test_top.env_h.scoreboard_h [PASS ] in1=1111  in2=1111 rst=0  out=   1e 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 1175: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=1111  in2=1111 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 1180: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=1111  in2=1111 rst=0  out=   1e 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 1180: uvm_test_top.env_h.scoreboard_h [PASS ] in1=1111  in2=1111 rst=0  out=   1e 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 1185: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=1111  in2=1111 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 1190: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=1111  in2=1111 rst=0  out=   1e 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 1190: uvm_test_top.env_h.scoreboard_h [PASS ] in1=1111  in2=1111 rst=0  out=   1e 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 1195: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=1111  in2=1111 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 1200: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=1111  in2=1111 rst=0  out=   1e 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 1200: uvm_test_top.env_h.scoreboard_h [PASS ] in1=1111  in2=1111 rst=0  out=   1e 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 1205: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=1111  in2=1111 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 1210: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=1111  in2=1111 rst=0  out=   1e 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 1210: uvm_test_top.env_h.scoreboard_h [PASS ] in1=1111  in2=1111 rst=0  out=   1e 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 1215: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=1111  in2=1111 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 1220: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=1111  in2=1111 rst=0  out=   1e 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 1220: uvm_test_top.env_h.scoreboard_h [PASS ] in1=1111  in2=1111 rst=0  out=   1e 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 1225: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=1111  in2=1111 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 1230: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=1111  in2=1111 rst=0  out=   1e 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 1230: uvm_test_top.env_h.scoreboard_h [PASS ] in1=1111  in2=1111 rst=0  out=   1e 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 1235: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=1111  in2=1111 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 1240: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=1111  in2=1111 rst=0  out=   1e 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 1240: uvm_test_top.env_h.scoreboard_h [PASS ] in1=1111  in2=1111 rst=0  out=   1e 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 1245: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=1111  in2=1111 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 1250: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=1111  in2=1111 rst=0  out=   1e 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 1250: uvm_test_top.env_h.scoreboard_h [PASS ] in1=1111  in2=1111 rst=0  out=   1e 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 1255: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=1111  in2=1111 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 1260: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=1111  in2=1111 rst=0  out=   1e 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 1260: uvm_test_top.env_h.scoreboard_h [PASS ] in1=1111  in2=1111 rst=0  out=   1e 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 1265: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=1111  in2=1111 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 1270: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=1111  in2=1111 rst=0  out=   1e 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 1270: uvm_test_top.env_h.scoreboard_h [PASS ] in1=1111  in2=1111 rst=0  out=   1e 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 1275: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=1111  in2=1111 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 1280: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=1111  in2=1111 rst=0  out=   1e 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 1280: uvm_test_top.env_h.scoreboard_h [PASS ] in1=1111  in2=1111 rst=0  out=   1e 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 1285: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=1111  in2=1111 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 1290: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=1111  in2=1111 rst=0  out=   1e 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 1290: uvm_test_top.env_h.scoreboard_h [PASS ] in1=1111  in2=1111 rst=0  out=   1e 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 1295: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=1111  in2=1111 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 1300: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=1111  in2=1111 rst=0  out=   1e 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 1300: uvm_test_top.env_h.scoreboard_h [PASS ] in1=1111  in2=1111 rst=0  out=   1e 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 1305: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=1111  in2=1111 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 1310: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=1111  in2=1111 rst=0  out=   1e 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 1310: uvm_test_top.env_h.scoreboard_h [PASS ] in1=1111  in2=1111 rst=0  out=   1e 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 1315: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=0000  in2=0100 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 1320: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=0000  in2=0100 rst=0  out=   04 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 1320: uvm_test_top.env_h.scoreboard_h [PASS ] in1=0000  in2=0100 rst=0  out=   04 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 1325: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=0000  in2=0001 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 1330: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=0000  in2=0001 rst=0  out=   01 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 1330: uvm_test_top.env_h.scoreboard_h [PASS ] in1=0000  in2=0001 rst=0  out=   01 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 1335: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=0000  in2=1011 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 1340: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=0000  in2=1011 rst=0  out=   0b 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 1340: uvm_test_top.env_h.scoreboard_h [PASS ] in1=0000  in2=1011 rst=0  out=   0b 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 1345: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=0000  in2=0010 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 1350: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=0000  in2=0010 rst=0  out=   02 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 1350: uvm_test_top.env_h.scoreboard_h [PASS ] in1=0000  in2=0010 rst=0  out=   02 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 1355: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=0000  in2=0110 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 1360: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=0000  in2=0110 rst=0  out=   06 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 1360: uvm_test_top.env_h.scoreboard_h [PASS ] in1=0000  in2=0110 rst=0  out=   06 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 1365: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=0000  in2=0111 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 1370: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=0000  in2=0111 rst=0  out=   07 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 1370: uvm_test_top.env_h.scoreboard_h [PASS ] in1=0000  in2=0111 rst=0  out=   07 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 1375: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=0000  in2=0101 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 1380: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=0000  in2=0101 rst=0  out=   05 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 1380: uvm_test_top.env_h.scoreboard_h [PASS ] in1=0000  in2=0101 rst=0  out=   05 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 1385: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=0000  in2=0000 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 1390: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=0000  in2=0000 rst=0  out=   00 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 1390: uvm_test_top.env_h.scoreboard_h [PASS ] in1=0000  in2=0000 rst=0  out=   00 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 1395: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=0000  in2=1000 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 1400: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=0000  in2=1000 rst=0  out=   08 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 1400: uvm_test_top.env_h.scoreboard_h [PASS ] in1=0000  in2=1000 rst=0  out=   08 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 1405: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=0000  in2=1101 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 1410: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=0000  in2=1101 rst=0  out=   0d 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 1410: uvm_test_top.env_h.scoreboard_h [PASS ] in1=0000  in2=1101 rst=0  out=   0d 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 1415: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=0000  in2=1111 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 1420: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=0000  in2=1111 rst=0  out=   0f 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 1420: uvm_test_top.env_h.scoreboard_h [PASS ] in1=0000  in2=1111 rst=0  out=   0f 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 1425: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=0000  in2=1110 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 1430: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=0000  in2=1110 rst=0  out=   0e 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 1430: uvm_test_top.env_h.scoreboard_h [PASS ] in1=0000  in2=1110 rst=0  out=   0e 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 1435: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=0000  in2=1010 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 1440: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=0000  in2=1010 rst=0  out=   0a 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 1440: uvm_test_top.env_h.scoreboard_h [PASS ] in1=0000  in2=1010 rst=0  out=   0a 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 1445: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=0000  in2=0011 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 1450: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=0000  in2=0011 rst=0  out=   03 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 1450: uvm_test_top.env_h.scoreboard_h [PASS ] in1=0000  in2=0011 rst=0  out=   03 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 1455: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=0000  in2=1001 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 1460: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=0000  in2=1001 rst=0  out=   09 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 1460: uvm_test_top.env_h.scoreboard_h [PASS ] in1=0000  in2=1001 rst=0  out=   09 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 1465: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=0000  in2=1100 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 1470: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=0000  in2=1100 rst=0  out=   0c 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 1470: uvm_test_top.env_h.scoreboard_h [PASS ] in1=0000  in2=1100 rst=0  out=   0c 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 1475: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=0000  in2=1100 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 1480: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=0000  in2=1100 rst=0  out=   0c 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 1480: uvm_test_top.env_h.scoreboard_h [PASS ] in1=0000  in2=1100 rst=0  out=   0c 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 1485: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=0000  in2=1001 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 1490: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=0000  in2=1001 rst=0  out=   09 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 1490: uvm_test_top.env_h.scoreboard_h [PASS ] in1=0000  in2=1001 rst=0  out=   09 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 1495: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=0000  in2=0011 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 1500: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=0000  in2=0011 rst=0  out=   03 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 1500: uvm_test_top.env_h.scoreboard_h [PASS ] in1=0000  in2=0011 rst=0  out=   03 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 1505: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=0000  in2=1010 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 1510: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=0000  in2=1010 rst=0  out=   0a 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 1510: uvm_test_top.env_h.scoreboard_h [PASS ] in1=0000  in2=1010 rst=0  out=   0a 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 1515: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=0000  in2=1110 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 1520: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=0000  in2=1110 rst=0  out=   0e 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 1520: uvm_test_top.env_h.scoreboard_h [PASS ] in1=0000  in2=1110 rst=0  out=   0e 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 1525: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=0000  in2=1111 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 1530: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=0000  in2=1111 rst=0  out=   0f 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 1530: uvm_test_top.env_h.scoreboard_h [PASS ] in1=0000  in2=1111 rst=0  out=   0f 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 1535: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=0000  in2=1101 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 1540: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=0000  in2=1101 rst=0  out=   0d 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 1540: uvm_test_top.env_h.scoreboard_h [PASS ] in1=0000  in2=1101 rst=0  out=   0d 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 1545: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=0000  in2=1000 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 1550: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=0000  in2=1000 rst=0  out=   08 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 1550: uvm_test_top.env_h.scoreboard_h [PASS ] in1=0000  in2=1000 rst=0  out=   08 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 1555: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=0000  in2=0000 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 1560: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=0000  in2=0000 rst=0  out=   00 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 1560: uvm_test_top.env_h.scoreboard_h [PASS ] in1=0000  in2=0000 rst=0  out=   00 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 1565: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=0000  in2=0101 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 1570: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=0000  in2=0101 rst=0  out=   05 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 1570: uvm_test_top.env_h.scoreboard_h [PASS ] in1=0000  in2=0101 rst=0  out=   05 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 1575: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=0000  in2=0111 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 1580: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=0000  in2=0111 rst=0  out=   07 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 1580: uvm_test_top.env_h.scoreboard_h [PASS ] in1=0000  in2=0111 rst=0  out=   07 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 1585: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=0000  in2=0110 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 1590: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=0000  in2=0110 rst=0  out=   06 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 1590: uvm_test_top.env_h.scoreboard_h [PASS ] in1=0000  in2=0110 rst=0  out=   06 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 1595: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=0000  in2=0010 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 1600: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=0000  in2=0010 rst=0  out=   02 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 1600: uvm_test_top.env_h.scoreboard_h [PASS ] in1=0000  in2=0010 rst=0  out=   02 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 1605: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=0000  in2=1011 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 1610: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=0000  in2=1011 rst=0  out=   0b 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 1610: uvm_test_top.env_h.scoreboard_h [PASS ] in1=0000  in2=1011 rst=0  out=   0b 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 1615: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=1010  in2=0000 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 1620: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=1010  in2=0000 rst=0  out=   0a 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 1620: uvm_test_top.env_h.scoreboard_h [PASS ] in1=1010  in2=0000 rst=0  out=   0a 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 1625: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=0111  in2=0000 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 1630: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=0111  in2=0000 rst=0  out=   07 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 1630: uvm_test_top.env_h.scoreboard_h [PASS ] in1=0111  in2=0000 rst=0  out=   07 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 1635: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=0001  in2=0000 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 1640: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=0001  in2=0000 rst=0  out=   01 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 1640: uvm_test_top.env_h.scoreboard_h [PASS ] in1=0001  in2=0000 rst=0  out=   01 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 1645: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=1000  in2=0000 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 1650: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=1000  in2=0000 rst=0  out=   08 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 1650: uvm_test_top.env_h.scoreboard_h [PASS ] in1=1000  in2=0000 rst=0  out=   08 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 1655: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=1100  in2=0000 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 1660: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=1100  in2=0000 rst=0  out=   0c 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 1660: uvm_test_top.env_h.scoreboard_h [PASS ] in1=1100  in2=0000 rst=0  out=   0c 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 1665: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=1101  in2=0000 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 1670: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=1101  in2=0000 rst=0  out=   0d 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 1670: uvm_test_top.env_h.scoreboard_h [PASS ] in1=1101  in2=0000 rst=0  out=   0d 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 1675: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=1011  in2=0000 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 1680: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=1011  in2=0000 rst=0  out=   0b 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 1680: uvm_test_top.env_h.scoreboard_h [PASS ] in1=1011  in2=0000 rst=0  out=   0b 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 1685: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=0110  in2=0000 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 1690: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=0110  in2=0000 rst=0  out=   06 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 1690: uvm_test_top.env_h.scoreboard_h [PASS ] in1=0110  in2=0000 rst=0  out=   06 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 1695: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=1110  in2=0000 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 1700: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=1110  in2=0000 rst=0  out=   0e 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 1700: uvm_test_top.env_h.scoreboard_h [PASS ] in1=1110  in2=0000 rst=0  out=   0e 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 1705: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=0011  in2=0000 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 1710: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=0011  in2=0000 rst=0  out=   03 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 1710: uvm_test_top.env_h.scoreboard_h [PASS ] in1=0011  in2=0000 rst=0  out=   03 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 1715: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=0101  in2=0000 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 1720: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=0101  in2=0000 rst=0  out=   05 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 1720: uvm_test_top.env_h.scoreboard_h [PASS ] in1=0101  in2=0000 rst=0  out=   05 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 1725: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=0100  in2=0000 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 1730: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=0100  in2=0000 rst=0  out=   04 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 1730: uvm_test_top.env_h.scoreboard_h [PASS ] in1=0100  in2=0000 rst=0  out=   04 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 1735: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=0000  in2=0000 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 1740: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=0000  in2=0000 rst=0  out=   00 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 1740: uvm_test_top.env_h.scoreboard_h [PASS ] in1=0000  in2=0000 rst=0  out=   00 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 1745: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=1001  in2=0000 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 1750: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=1001  in2=0000 rst=0  out=   09 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 1750: uvm_test_top.env_h.scoreboard_h [PASS ] in1=1001  in2=0000 rst=0  out=   09 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 1755: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=1111  in2=0000 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 1760: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=1111  in2=0000 rst=0  out=   0f 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 1760: uvm_test_top.env_h.scoreboard_h [PASS ] in1=1111  in2=0000 rst=0  out=   0f 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 1765: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=0010  in2=0000 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 1770: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=0010  in2=0000 rst=0  out=   02 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 1770: uvm_test_top.env_h.scoreboard_h [PASS ] in1=0010  in2=0000 rst=0  out=   02 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 1775: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=0010  in2=0000 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 1780: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=0010  in2=0000 rst=0  out=   02 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 1780: uvm_test_top.env_h.scoreboard_h [PASS ] in1=0010  in2=0000 rst=0  out=   02 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 1785: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=1111  in2=0000 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 1790: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=1111  in2=0000 rst=0  out=   0f 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 1790: uvm_test_top.env_h.scoreboard_h [PASS ] in1=1111  in2=0000 rst=0  out=   0f 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 1795: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=1001  in2=0000 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 1800: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=1001  in2=0000 rst=0  out=   09 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 1800: uvm_test_top.env_h.scoreboard_h [PASS ] in1=1001  in2=0000 rst=0  out=   09 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 1805: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=0000  in2=0000 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 1810: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=0000  in2=0000 rst=0  out=   00 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 1810: uvm_test_top.env_h.scoreboard_h [PASS ] in1=0000  in2=0000 rst=0  out=   00 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 1815: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=0100  in2=0000 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 1820: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=0100  in2=0000 rst=0  out=   04 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 1820: uvm_test_top.env_h.scoreboard_h [PASS ] in1=0100  in2=0000 rst=0  out=   04 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 1825: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=0101  in2=0000 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 1830: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=0101  in2=0000 rst=0  out=   05 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 1830: uvm_test_top.env_h.scoreboard_h [PASS ] in1=0101  in2=0000 rst=0  out=   05 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 1835: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=0011  in2=0000 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 1840: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=0011  in2=0000 rst=0  out=   03 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 1840: uvm_test_top.env_h.scoreboard_h [PASS ] in1=0011  in2=0000 rst=0  out=   03 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 1845: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=1110  in2=0000 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 1850: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=1110  in2=0000 rst=0  out=   0e 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 1850: uvm_test_top.env_h.scoreboard_h [PASS ] in1=1110  in2=0000 rst=0  out=   0e 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 1855: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=0110  in2=0000 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 1860: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=0110  in2=0000 rst=0  out=   06 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 1860: uvm_test_top.env_h.scoreboard_h [PASS ] in1=0110  in2=0000 rst=0  out=   06 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 1865: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=1011  in2=0000 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 1870: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=1011  in2=0000 rst=0  out=   0b 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 1870: uvm_test_top.env_h.scoreboard_h [PASS ] in1=1011  in2=0000 rst=0  out=   0b 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 1875: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=1101  in2=0000 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 1880: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=1101  in2=0000 rst=0  out=   0d 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 1880: uvm_test_top.env_h.scoreboard_h [PASS ] in1=1101  in2=0000 rst=0  out=   0d 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 1885: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=1100  in2=0000 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 1890: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=1100  in2=0000 rst=0  out=   0c 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 1890: uvm_test_top.env_h.scoreboard_h [PASS ] in1=1100  in2=0000 rst=0  out=   0c 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 1895: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=1000  in2=0000 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 1900: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=1000  in2=0000 rst=0  out=   08 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 1900: uvm_test_top.env_h.scoreboard_h [PASS ] in1=1000  in2=0000 rst=0  out=   08 
+UVM_INFO /home/runner/adder_scoreboard.sv(39) @ 1905: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=0001  in2=0000 rst=0
+UVM_INFO /home/runner/adder_scoreboard.sv(55) @ 1910: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=0001  in2=0000 rst=0  out=   01 
+UVM_INFO /home/runner/adder_scoreboard.sv(69) @ 1910: uvm_test_top.env_h.scoreboard_h [PASS ] in1=0001  in2=0000 rst=0  out=   01 
+UVM_INFO /home/runner/adder_coverage.sv(57) @ 1915: uvm_test_top.env_h.coverage_h [adder_coverage] Coverage is 100.000000
